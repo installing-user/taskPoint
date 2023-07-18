@@ -1,0 +1,7 @@
+TELEGRAM_TOKEN="6313078150:AAGkXckM32_GoHHsw1gHIlzNlGhb7E0304g"
+
+[server]
+    HOST_URL="http://"
+
+[repository]
+    REPOSITORY="github.com/"
